@@ -12,6 +12,9 @@
 		if(ereg('ja', $UserFirstLanguage)) {
 			$lang = "ja"; //日本語
 		}
+		if(ereg('es', $UserFirstLanguage)) {
+			$lang = "es"; //Español
+		}
 	}
 	
 	//Firefoxかどうか判別

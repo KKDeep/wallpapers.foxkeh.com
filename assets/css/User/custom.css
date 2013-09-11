@@ -148,6 +148,7 @@ a {
 #header #mainMenu .menu dd ul {
 	margin-top: 5px;
 	margin-right: 43px;
+	width: 170px;
 }
 
 #header #mainMenu .menu dd ul li {
@@ -160,7 +161,7 @@ a {
 	text-decoration: underline;
 }
 
-#header #mainMenu .menu dd ul li .ja {
+#header #mainMenu .menu dd ul li .separate {
 	border-right: 1px solid #663333;
 	padding-right: 6px;
 }

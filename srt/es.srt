@@ -4,7 +4,7 @@
 
 2
 00:00:03,000 --> 00:00:05,000
-“Foxkeh’s Wallpaper Creator” es una herramienta
+"Foxkeh’s Wallpaper Creator" es una herramienta
 
 3
 00:00:05,000 --> 00:00:07,000
@@ -37,7 +37,6 @@ sin necesidad de instalar ningún plug-ins.
 10
 00:00:20,000 --> 00:00:21,000
 
-
 11
 00:00:21,000 --> 00:00:25,000
 Usted puede seleccionar el gráfico y moverlo, 
@@ -60,7 +59,6 @@ en un personaje te gusta.
 
 16
 00:00:35,000 --> 00:00:37,000
- 
 
 17
 00:00:37,000 --> 00:00:40,000
@@ -88,7 +86,6 @@ cambiar el aspecto del navegador web Firefox.
 
 23
 00:00:55,000 --> 00:00:56,000
- 
 
 24
 00:00:56,000 --> 00:00:58,000
