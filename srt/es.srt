@@ -20,7 +20,7 @@ Ya que hace uso de una web avanzada
 
 6
 00:00:12,000 --> 00:00:14,000
-tecnologí basada denominado SVG, 
+tecnología basada denominado SVG, 
 
 7
 00:00:14,000 --> 00:00:16,000
